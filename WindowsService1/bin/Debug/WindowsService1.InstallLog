@@ -1,0 +1,77 @@
+﻿Installerer assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installerer tjenesten Windows Service...
+Opretter EventLog-kilden Windows Service i logfilen Application...
+Annullerer opdatering af assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Gendanner hændelsesloggen til den foregående tilstand for kilden Windows Service.
+Der opstod en undtagelse under tilbagerulningsfasen i installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under tilbagerulningsfasen af installationen. Undtagelsen bliver ignoreret, og tilbagerulningen fortsætter. Computeren vender dog muligvis ikke tilbage til sin helt oprindelige tilstand, når tilbagerulningen er fuldført.
+Installerer assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installerer tjenesten Windows Service...
+Opretter EventLog-kilden Windows Service i logfilen Application...
+Annullerer opdatering af assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Gendanner hændelsesloggen til den foregående tilstand for kilden Windows Service.
+Der opstod en undtagelse under tilbagerulningsfasen i installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under tilbagerulningsfasen af installationen. Undtagelsen bliver ignoreret, og tilbagerulningen fortsætter. Computeren vender dog muligvis ikke tilbage til sin helt oprindelige tilstand, når tilbagerulningen er fuldført.
+Installerer assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installerer tjenesten Windows Service...
+Opretter EventLog-kilden Windows Service i logfilen Application...
+Annullerer opdatering af assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Gendanner hændelsesloggen til den foregående tilstand for kilden Windows Service.
+Der opstod en undtagelse under tilbagerulningsfasen i installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under tilbagerulningsfasen af installationen. Undtagelsen bliver ignoreret, og tilbagerulningen fortsætter. Computeren vender dog muligvis ikke tilbage til sin helt oprindelige tilstand, når tilbagerulningen er fuldført.
+Installerer assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installerer tjenesten Windows Service...
+Opretter EventLog-kilden Windows Service i logfilen Application...
+Annullerer opdatering af assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Gendanner hændelsesloggen til den foregående tilstand for kilden Windows Service.
+Der opstod en undtagelse under tilbagerulningsfasen i installationsprogrammet System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Kilden blev ikke fundet, men der kunne ikke søges i nogle eller alle hændelseslogfiler. Logfiler, der ikke er tilgængelige: Security, State.
+Der opstod en undtagelse under tilbagerulningsfasen af installationen. Undtagelsen bliver ignoreret, og tilbagerulningen fortsætter. Computeren vender dog muligvis ikke tilbage til sin helt oprindelige tilstand, når tilbagerulningen er fuldført.
+Installerer assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installerer tjenesten Windows Service...
+Tjenesten Windows Service blev installeret.
+Opretter EventLog-kilden Windows Service i logfilen Application...
+Bekræfter assemblyen 'C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+De berørte parametre er:
+   logtoconsole = 
+   logfile = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\alex303a\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
